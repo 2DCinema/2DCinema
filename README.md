@@ -22,10 +22,11 @@ Currently trying to learn everything I can about what interests me. I program fo
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobZufall&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JacobZufall&theme=monokai&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JacobZufall&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JacobZufall&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
